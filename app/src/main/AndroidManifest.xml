@@ -23,6 +23,10 @@
             android:exported="false" />
         <activity
             android:name=".authentication.SplashActivity"
+            android:exported="false" />
+
+        <activity
+            android:name=".authentication.SignUpActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
