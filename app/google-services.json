@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "380753436641",
+    "project_id": "space-chat-backend",
+    "storage_bucket": "space-chat-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380753436641:android:3c320c5ea1b4d30eb93ca0",
+        "android_client_info": {
+          "package_name": "com.example.spacechat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuu5sG3kueL2-FURsa4VAUTnRTOkgsDWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
